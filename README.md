@@ -22,7 +22,7 @@ Hi, I'm Francielly an enthusiastic and ambitious full stack developer. I special
 
 <div>
 <details>
-  <summary>👤 Mais sobre mim</summary>
+  <summary>👤 more about me</summary>
 
 - ✨I am currently on a journey to build my bright future.
 
