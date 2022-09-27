@@ -18,13 +18,14 @@
 <br/>
 
 <p>
-  <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=franciellybarboza&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
-   <div align="left" width="100%">
+  <img width="40%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=franciellybarboza&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+   <div align="center" width="100%">
    
- Olá, sou Francielly um desenvolvedor front end entusiasmada e ambiciosa. Sou especialista em Desenvolvimento Web, html e css. Adoro participar de novas comunidades e agregar valor.🖥️ 
-   <div align="left" width="100%">
+- 🖥️  Olá, sou Francielly um desenvolvedor front end entusiasmada e ambiciosa. Sou especialista em javascript e css. Adoro participar de novas comunidades e agregar valor.
+    <div align="left" width="100%">
 
 <div>
+  <div align="left" width="100%">
 <details>
 
  <summary> 👤 mais sobre mim</summary> 
