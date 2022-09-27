@@ -44,6 +44,7 @@
 </p>
   
 ## 🖱️ GitHub Trophies</h2>
+<div align="center" width="100%">
 <img src="https://github-profile-trophy.vercel.app/?username=franciellybarboza&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 
   <br />
@@ -52,7 +53,7 @@
 
 ## 🌹 Github Stats
 
-<img align="right" width="35%" src="https://user-images.githubusercontent.com/107949500/192605140-11037c7b-ea45-4476-8e90-2ae05bfaf79a.jpg"/>
+<img align="right" width="40%" src="https://user-images.githubusercontent.com/107949500/192605140-11037c7b-ea45-4476-8e90-2ae05bfaf79a.jpg"/>
 
 <div align="center" width="100%">
    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=franciellybarboza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
