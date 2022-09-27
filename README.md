@@ -16,7 +16,7 @@
 <br/>
 
 <p>
-  <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=franciellybarboza&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+  <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=franciellybarboza&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
    <div align="left" width="100%">
    
  Olá, sou Francielly um desenvolvedor front end entusiasmada e ambiciosa. Sou especialista em Desenvolvimento Web, html e css. Adoro participar de novas comunidades e agregar valor.🖥️ 
