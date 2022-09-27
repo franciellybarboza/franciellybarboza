@@ -35,8 +35,6 @@
 
 - ❤️‍🔥 Atualmente uma garota de 17 anos perseguindo seus sonhos.
 
-- ❤️‍🔥Simples brasileiro querendo alcançar o impossível.
-
 - ❤️‍🔥tudo é possível, até seu coração parar de bater.
 
 - ❤️‍🔥Entre em contato comigo em franciell.barboza1211@gmail.com
