@@ -13,45 +13,48 @@
   <img align="right" alt="francielly barboza's Email" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" />
 </a>
 </p>
-
 <br/>
 
 <p>
-  
-Hi, I'm Francielly an enthusiastic and ambitious full stack developer. I specialize in Web Development, JavaScript and Design. I love participating in new communities and adding value ✨
+  <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=franciellybarboza&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+   <div align="left" width="100%">
+   
+ Olá, sou Francielly um desenvolvedor front end entusiasmada e ambiciosa. Sou especialista em Desenvolvimento Web, html e css. Adoro participar de novas comunidades e agregar valor.🖥️ 
+   <div align="left" width="100%">
 
 <div>
 <details>
-  <summary>👤 more about me</summary>
 
-- ✨I am currently on a journey to build my bright future.
+ <summary> 👤 mais sobre mim</summary> 
 
-- ❇️I am willing to face all kinds of challenges and learn more and more.
+- ❤️‍🔥 Atualmente estou em uma jornada para construir meu futuro brilhante.
 
-- ✨Currently a 17 year old girl chasing her dreams.
+- ❤️‍🔥Estou disposto a enfrentar todos os tipos de desafios e aprender cada vez mais.
 
-- ❇️Simple Brazilian wanting to achieve the impossible.
+- ❤️‍🔥 Atualmente uma garota de 17 anos perseguindo seus sonhos.
 
-- ✨everything is possible, until your heart stops beating.
+- ❤️‍🔥Simples brasileiro querendo alcançar o impossível.
 
-- ❇️Contact me at franciell.barboza1211@gmail.com
+- ❤️‍🔥tudo é possível, até seu coração parar de bater.
+
+- ❤️‍🔥Entre em contato comigo em franciell.barboza1211@gmail.com
 
 </details>
   
 </p>
   
-<!--
-<details>
-  <summary>📕 Blog Posts</summary>
+## 🖱️ GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=franciellybarboza&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+
   <br />
 </details>
 </div>
--->
 
-## 🔥 Github Stats
+## 🌹 Github Stats
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/107949500/188760135-c92fcc75-6fb0-4e51-ad37-2d9d8465f238.jpg"/>
 
-  <a href="https://github.com/franciellybarboza"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=franciellybarboza&theme=radical&title_color=ff3068"></a>
-  
-  <a href="https://github.com/franciellybarboza"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=franciellybarboza&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<div align="center" width="100%">
+   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=franciellybarboza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+   <img align="left" width="50%" src="https://activity-graph.herokuapp.com/graph?username=franciellybarboza&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
+   
