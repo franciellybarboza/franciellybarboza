@@ -3,16 +3,16 @@
 <p align="center">
 
  <a href="https://www.instagram.com/d___elly/">
-  <img align="right" alt="Braydon's Instagram" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" />
+  <img align="center" alt="Braydon's Instagram" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" />
 </a>
 <a href="https://twitter.com/m___hii">
-  <img align="right" alt="Braydon's Twitter" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/twitter.svg" />
+  <img align="center" alt="Braydon's Twitter" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/francielly-barboza-serraglio-3905a2237/">
-  <img align="right" alt="Braydon's LinkedIn" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" />
+  <img align="center" alt="Braydon's LinkedIn" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" />
 </a>
 <a href="mailto: franciell.barboza1211@gmail.com">
-  <img align="right" alt="francielly barboza's Email" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" />
+  <img align="center" alt="francielly barboza's Email" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" />
 </a>
 </p>
 <br/>
