@@ -1,5 +1,7 @@
-<a href="https://discord.gg/shiba"><img src="https://user-images.githubusercontent.com/107949500/188759086-c8f07da8-8a3c-42f7-96e5-d231adebe3a6.jpg" width="100%" height="auto"/></a>
+<img src="https://user-images.githubusercontent.com/107949500/192605024-59fe4b58-506e-44cc-9c27-1a7134f959bd.jpg" width="100%" height="auto"/></a>
+
 <p align="center">
+
  <a href="https://www.instagram.com/d___elly/">
   <img align="right" alt="Braydon's Instagram" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" />
 </a>
@@ -52,7 +54,7 @@
 
 ## 🌹 Github Stats
 
-<img align="right" width="35%" src="https://user-images.githubusercontent.com/107949500/188760135-c92fcc75-6fb0-4e51-ad37-2d9d8465f238.jpg"/>
+<img align="right" width="35%" src="https://user-images.githubusercontent.com/107949500/192605140-11037c7b-ea45-4476-8e90-2ae05bfaf79a.jpg"/>
 
 <div align="center" width="100%">
    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=franciellybarboza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
