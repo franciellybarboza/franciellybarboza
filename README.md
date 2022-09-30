@@ -39,7 +39,7 @@
 
 - ❤️‍🔥Entre em contato comigo em franciell.barboza1211@gmail.com
 
-- ❤️‍🔥[Meu curriculo](https://github.com/franciellybarboza/Curriculo)
+- ❤️‍🔥[Meu Currículo](https://github.com/franciellybarboza/Curriculo)
 
 </details>
   
