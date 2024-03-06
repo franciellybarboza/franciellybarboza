@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/107949500/192605024-59fe4b58-506e-44cc-9c27-1a7134f959bd.jpg" width="100%" height="auto"/></a>
+<img src="https://github.com/franciellybarboza/franciellybarboza/assets/107949500/94623720-1496-4ec5-ba22-7b358616b248" width="100%" height="auto"/></a>
 
 <p align="center">
 
@@ -52,9 +52,7 @@
 
 ## 🌹 Github Stats
 
-<img align="right" width="40%" src="https://user-images.githubusercontent.com/107949500/192605140-11037c7b-ea45-4476-8e90-2ae05bfaf79a.jpg"/>
+<img align="right" width="40%" src="https://github.com/franciellybarboza/franciellybarboza/assets/107949500/9b8419ff-70fc-40fc-83f8-2986f6931b21"/>
 
 <div align="center" width="100%">
-   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=franciellybarboza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-   <img align="left" width="50%" src="https://activity-graph.herokuapp.com/graph?username=franciellybarboza&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
-   
+   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=franciellybarboza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
