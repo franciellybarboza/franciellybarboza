@@ -30,7 +30,7 @@
 
 - ❤️‍🔥Estou disposto a enfrentar todos os tipos de desafios e aprender cada vez mais.
 
-- ❤️‍🔥 Atualmente uma garota de 18 anos perseguindo seus sonhos.
+- ❤️‍🔥 Atualmente uma garota de 19 anos perseguindo seus sonhos.
 
 - ❤️‍🔥tudo é possível, até seu coração parar de bater.
 
